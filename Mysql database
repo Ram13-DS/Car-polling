@@ -1,3 +1,5 @@
+Create a database in mysql and add this code
+
 show databases;
 create database testing;
 use testing;
