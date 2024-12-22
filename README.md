@@ -64,3 +64,8 @@ User: After getting the registration request to the admin, he personally verifie
 ![image](https://github.com/user-attachments/assets/5bfc40a9-36e9-4b16-a810-405254704b97)
 
 **Database Management**
+
+![image](https://github.com/user-attachments/assets/c6e0b64e-2f12-401d-9ddc-7fe9c694c062)
+
+![image](https://github.com/user-attachments/assets/b15ed7d9-bc03-467c-8bed-6e46e8879585)
+
