@@ -6,7 +6,7 @@ This project is about carpooling which is user based application that provides a
 
 **MODULES**
 
-Admin: Owner accepting nearby user, the owner is going to get the request from the user considering his starting point. 
+**Admin:** Owner accepting nearby user, the owner is going to get the request from the user considering his starting point. 
 
  Step1: Start 
 
@@ -25,7 +25,7 @@ Admin: Owner accepting nearby user, the owner is going to get the request from t
  Step8: Stop 
 
 
-User: After getting the registration request to the admin, he personally verifies whether the user or the car owner is genuine or not .if genuine then there request is accepted. 
+**User:** After getting the registration request to the admin, he personally verifies whether the user or the car owner is genuine or not .if genuine then there request is accepted. 
  
  Step 1: Start 
  
